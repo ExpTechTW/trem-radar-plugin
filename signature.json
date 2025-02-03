@@ -1,0 +1,11 @@
+{
+  "timestamp": 1738575460857,
+  "version": "1.0.0",
+  "fileHashes": {
+    "index.js": "36d11304b233665a6ac29bd998728e12feb9986930e0ff344f72f5e7befa709b",
+    "info.json": "97a51fbdd764018d4d45a1790330700398a5c140807d1d365dc32805f249448d",
+    "radar.html": "fce6d5d96c7bb680e571e4df677653526e5b979da776a459a4035f866e06ab97"
+  },
+  "signature": "oNxS7m6hAnb9LQKqtrqURgKAZzUO6010kizBwj6sisrikMRx9Dy8lb/mNErWilmeeV9DM48fZBc6a5WG6jlEn1CDpHZ5pDrjs/GVf6rfvgnJnaqyK/Tlfuh28vdj2G01khEhaZP76xWyzpxhmFx/hFdzA8pgT/mDfbWOmK+hDcpwxVY2Wys8leY4YXktuxLj6T2pCMcAj2AgS6G9luHUAVi6yERh8XqThPNeO7Uf94DzMjag8PcDrVLHlUM66zZaxW7U/MT1B8evx4ZiRqS72ou2t9F9g/PZPL5CH7nJeUKUptH8orCLrS0+rkbG+EoBaBIpM6YNJUHfaOSeNz7AFg==",
+  "keyId": "official"
+}
