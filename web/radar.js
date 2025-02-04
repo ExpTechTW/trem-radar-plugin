@@ -1,5 +1,6 @@
 const map = new maplibregl.Map({
     container: 'map',
+    dragRotate: false,
     style: {
         'version': 8,
         'name': 'ExpTech Studio',
@@ -63,7 +64,7 @@ const map = new maplibregl.Map({
         ]
     },
     center: [120.2, 23.6],
-    zoom: 7
+    zoom: 6.6
 });
 
 let opacity = 1;
@@ -82,16 +83,11 @@ map.on('load', async function () {
     timeDisplay.id = 'time-display';
     
     const date = new Date(parseInt(latestTime));
-    timeDisplay.textContent = date.toLocaleString('zh-TW', {
-        year: 'numeric',
-        month: '2-digit',
-        day: '2-digit',
-        hour: '2-digit',
-        minute: '2-digit',
-        hour12: false
-    });
-    
-
+    timeDisplay.textContent = date.getFullYear() + '-' + 
+        String(date.getMonth() + 1).padStart(2, '0') + '-' +
+        String(date.getDate()).padStart(2, '0') + ' ' +
+        String(date.getHours()).padStart(2, '0') + ':' +
+        String(date.getMinutes()).padStart(2, '0');
     document.body.appendChild(timeDisplay);
 
     map.addSource('radarTiles', {
