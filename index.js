@@ -23,11 +23,11 @@ class Plugin {
     button.addEventListener("click", () => {
       ipcRenderer.send("open-plugin-window", {
           pluginId: "radar",
-          htmlPath: `${info.pluginDir}/radar/radar.html`,
+          htmlPath: `${info.pluginDir}/radar/web/radar.html`,
           options: {
-            width          : 1920,
-            height         : 1080,
-            minWidth       : 866,
+            width          : 886,
+            height         : 673,
+            minWidth       : 886,
             minHeight      : 673,
             frame          : true,
             maximized      : true,
