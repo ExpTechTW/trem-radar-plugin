@@ -1,13 +1,14 @@
 {
-  "timestamp": 1738649232890,
-  "version": "1.0.2",
+  "timestamp": 1740205216099,
+  "version": "1.1.0",
   "fileHashes": {
-    "index.js": "198368094826390e7e8b5e710bad6269cf3358859972365b28bee498217e9d0a",
-    "info.json": "e69426bc5bddd301412a64cf2a2d0ac4f039ab6a0b9f3aea208e87f6654d9729",
-    "web/radar.css": "07bc6b1bd3984a9dd5f3c2269263fbcb896f8c3953f56ea4d997a3b421ad8fd0",
-    "web/radar.html": "45c470a9b3c928fe2130a08941afde5fb5457419138e71e6490ccdce43949cde",
-    "web/radar.js": "ed5af0aa308258896e7b9d500c92f9d564d050163b51a2bef8d92d608b67dbed"
+    "index.js": "65250e865f293270a855f9b2d0c4d213e3c3ccf405e6e6130a835f68ab28d33a",
+    "info.json": "236b4b4c82e96d94666856118080f90f4a834eebaa1e4486570c6afa00feb845",
+    "web/nav.js": "c873f6ce194f4d6a2a4ceef31a9bd8ab3192f1d28544dcbe916d3163184bba69",
+    "web/radar.css": "dce4494948cf9868679be5a735b31ec108c9dd2064c626b5494d2eb08592fbb4",
+    "web/radar.html": "f3da70f367b93871940d0fcbef0218e3710eea4b97e605766de8c1ccd7d165bd",
+    "web/radar.js": "b6e18f91dbe7733a2d4a3c6ae1d3728b354f160f7e325c954716c1cf7a0fceb6"
   },
-  "signature": "YaA70YHvK+QiuST9nVfn/huPVIONd8brF59mTsbfeie8PeFSUxD/gkwz4PNxmdIrVgQHkXKN7aHaBbE63FarN3DBtkhWA+dAofJZxylHvZDWxh97dq/4v5cPWrN0umEYwuFODGvYE2eciOXp0ntzIPSVS2w3WCDwMYNaYtSUhCgyEZfW3swHyU1Pp0xgbTURvpO3bjjRrmOwM4jSPt4f90TtF6U+92UXOYWmdJOABqUgyn/S087mCJ1SlmiQGy+y7nIu4YelEtkifH3T0FAj3xAn9Rq5yZf6p11FeoqTN6eh9JyzeucWi0ZgqFzM7S8ijf56un/eqVmOKwzQzAbW9A==",
+  "signature": "rNjHq+oaotyPKKxOqVqkYra9BTVYbGpkbnTxQbjxTqyLiw2cTNONmmAWpTAyl1+aEK/9bMFZKql6reH56SnVqdkQUGcv0ISCg2WH3jm7ZrzwGUXk1v3tF0owugNGN0ApoXkwOvC76cBGdE5lXmVAN4MSZJLHugFQDglq4cPWdB8cBxknbqtZgyNYxOKRdfnMGhnh8IKe8Kd6mdYQruBkQ7W4QJD+wbc6oVbNWFEP4YG3yZ/PfQ/hxE+SguwQeN8rypa94n1P1GgozGhMu1PVVEwlLZvRoWlrP0bCTIxRsMPjgKtE21HAioLp2gr1XNF3I8A0jRNwde8WY2vHEENudg==",
   "keyId": "official"
 }
